@@ -12,3 +12,4 @@ HDL/Verilog code from my IEEE paper on Turbo Codes.
 Simulate the .v files in ModelSim/Quartus to reproduce results from the paper.
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=k7AslMlAAAAJ)
+
